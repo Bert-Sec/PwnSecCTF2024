@@ -1,7 +1,7 @@
 # Half Blind
 **Category**: Pwn
 
-**Value**: 500
+**Value**: 496
 
 **ID**: 59
 

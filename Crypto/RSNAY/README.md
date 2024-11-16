@@ -1,7 +1,7 @@
 # RSNAY
 **Category**: Crypto
 
-**Value**: 500
+**Value**: 493
 
 **ID**: 45
 

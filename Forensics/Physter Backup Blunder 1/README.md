@@ -1,7 +1,7 @@
 # Physter Backup Blunder 1
 **Category**: Forensics
 
-**Value**: 488
+**Value**: 413
 
 **ID**: 38
 

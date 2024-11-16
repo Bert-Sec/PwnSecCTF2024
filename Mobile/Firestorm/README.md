@@ -1,7 +1,7 @@
 # Firestorm
 **Category**: Mobile
 
-**Value**: 500
+**Value**: 496
 
 **ID**: 57
 

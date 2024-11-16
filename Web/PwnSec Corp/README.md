@@ -1,7 +1,7 @@
 # PwnSec Corp
 **Category**: Web
 
-**Value**: 500
+**Value**: 472
 
 **ID**: 75
 

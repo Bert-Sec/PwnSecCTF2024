@@ -1,7 +1,7 @@
 # Patch Me Up
 **Category**: Pwn
 
-**Value**: 484
+**Value**: 387
 
 **ID**: 60
 

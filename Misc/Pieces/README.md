@@ -1,7 +1,7 @@
 # Pieces
 **Category**: Misc
 
-**Value**: 423
+**Value**: 100
 
 **ID**: 53
 

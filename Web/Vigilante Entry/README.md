@@ -1,7 +1,7 @@
 # Vigilante Entry
 **Category**: Web
 
-**Value**: 500
+**Value**: 489
 
 **ID**: 72
 

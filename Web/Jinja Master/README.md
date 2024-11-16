@@ -1,7 +1,7 @@
 # Jinja Master
 **Category**: Web
 
-**Value**: 495
+**Value**: 425
 
 **ID**: 68
 

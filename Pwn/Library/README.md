@@ -1,7 +1,7 @@
 # Library
 **Category**: Pwn
 
-**Value**: 500
+**Value**: 499
 
 **ID**: 89
 

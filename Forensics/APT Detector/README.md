@@ -1,7 +1,7 @@
 # APT Detector
 **Category**: Forensics
 
-**Value**: 500
+**Value**: 499
 
 **ID**: 100
 

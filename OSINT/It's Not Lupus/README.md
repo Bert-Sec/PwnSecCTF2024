@@ -1,7 +1,7 @@
 # It's Not Lupus
 **Category**: OSINT
 
-**Value**: 500
+**Value**: 489
 
 **ID**: 49
 
